@@ -1,0 +1,242 @@
+2019-09-12 23:37:08,739 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-12 23:37:08,768 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-12 23:37:08,850 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-12 23:37:08,897 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-12 23:37:08,916 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-12 23:37:08,937 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-12 23:37:11,534 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 10:38:45,610 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 10:38:45,708 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 10:38:46,105 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 10:38:46,141 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 10:38:46,153 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 10:38:46,169 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 10:38:49,761 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 10:44:03,026 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 10:44:03,049 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 10:44:03,193 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 10:44:03,222 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 10:44:03,237 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 10:44:03,250 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 10:44:08,808 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 10:46:27,758 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 10:46:27,785 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 10:48:06,931 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 10:48:06,958 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 10:48:07,048 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 10:48:07,085 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 10:48:07,113 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 10:48:07,126 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 10:48:07,141 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 10:59:59,304 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 10:59:59,340 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 10:59:59,467 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 10:59:59,522 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 10:59:59,564 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 10:59:59,581 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 10:59:59,599 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 11:40:47,609 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 11:40:47,631 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 11:40:47,752 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 11:40:47,778 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 11:40:47,791 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 11:40:47,802 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 11:40:47,815 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 11:42:40,040 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 11:42:40,065 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 11:42:40,155 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 11:42:40,185 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 11:42:40,214 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 11:42:40,225 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 11:42:40,244 INFO DB_Generator.GenerateDataAndPutInDB - Finished!
+2019-09-13 12:06:14,043 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:06:14,065 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:06:14,209 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:06:14,282 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:06:14,303 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:06:14,326 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:06:14,351 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:10:55,251 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:10:55,282 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:10:55,425 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:10:55,478 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:10:55,531 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:10:55,562 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:10:55,587 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:17:45,933 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:17:45,963 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:17:46,161 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:17:46,261 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:17:46,330 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:17:46,397 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:17:46,471 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:25:59,301 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:25:59,329 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:25:59,551 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:25:59,608 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:25:59,657 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:25:59,689 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:25:59,728 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:26:11,306 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:26:11,312 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:26:11,377 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:26:11,404 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:26:11,442 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:26:11,465 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:26:11,492 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:30:37,811 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:30:37,844 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:30:37,918 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:30:37,940 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:30:37,979 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:30:38,000 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:30:38,043 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:32:33,434 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:32:33,466 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:32:33,619 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:32:33,702 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:32:33,743 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:32:33,775 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:32:33,810 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-13 12:32:47,677 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-13 12:32:47,685 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-13 12:32:47,708 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-13 12:32:47,735 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-13 12:32:47,767 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-13 12:32:47,787 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-13 12:32:47,817 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 15:22:48,956 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 15:22:49,011 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 15:22:49,976 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 15:22:50,148 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 15:22:50,206 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 15:22:50,238 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 15:22:50,419 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 17:02:06,820 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 17:02:07,096 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 17:03:10,330 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 17:03:10,476 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 17:43:45,305 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 17:43:45,347 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 17:43:45,741 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 17:43:45,800 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 17:43:45,857 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 17:43:45,920 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 17:43:45,983 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 17:44:41,588 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 17:44:41,691 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:21:21,943 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:21:21,994 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:21:22,181 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:21:22,238 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:21:22,271 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:21:22,363 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:21:22,395 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:21:26,814 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:21:26,849 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:21:32,490 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:21:32,498 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:21:32,526 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:21:32,547 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:21:32,564 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:21:32,598 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:21:32,616 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:21:40,594 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:21:40,609 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:21:42,306 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:21:42,313 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:21:42,342 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:21:42,365 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:21:42,387 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:21:42,400 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:21:42,414 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:21:48,510 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:21:48,568 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:21:49,226 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:21:49,236 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:21:52,813 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:21:52,822 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:21:52,846 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:21:52,868 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:21:52,887 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:21:52,902 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:21:52,918 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:22:00,688 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:22:00,775 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:22:05,416 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:22:05,424 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:22:05,447 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:22:05,470 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:22:05,497 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:22:05,512 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:22:05,528 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:22:13,199 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:22:13,207 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:22:13,232 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:22:13,261 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:22:13,292 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:22:13,326 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:22:13,362 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:22:22,672 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:22:22,778 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 19:22:32,402 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 19:22:32,412 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 19:22:32,437 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 19:22:32,460 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 19:22:32,484 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 19:22:32,501 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 19:22:32,519 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 19:34:16,122 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 19:34:16,291 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 20:18:08,045 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 20:18:08,101 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 20:18:08,403 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 20:18:08,469 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 20:18:08,853 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 20:18:10,282 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 20:18:10,386 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 20:18:50,663 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 20:18:50,895 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 20:21:25,256 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 20:21:25,437 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 20:55:30,508 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 20:55:45,839 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 20:56:59,999 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 20:57:01,189 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 20:57:40,824 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 20:57:40,897 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 20:57:41,043 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 21:01:50,432 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 21:01:50,487 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 21:01:50,576 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 21:01:50,599 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 21:01:50,623 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 21:03:20,808 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 21:03:20,883 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 21:03:21,016 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 21:03:21,044 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 21:03:21,074 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 21:03:52,045 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 21:05:09,500 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 21:05:10,633 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 21:06:38,316 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 21:06:38,376 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 21:06:38,478 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 21:06:38,515 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 21:06:38,546 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 21:06:56,442 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 21:06:56,477 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 21:07:50,827 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 21:07:51,868 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !
+2019-09-15 23:23:18,471 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 23:23:18,529 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 23:23:18,991 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 23:25:11,751 INFO DB_Generator.GenerateDataAndPutInDB - Creating admin user
+2019-09-15 23:25:11,802 INFO DB_Generator.GenerateDataAndPutInDB - Adds the countries first
+2019-09-15 23:25:11,940 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Airline Companies
+2019-09-15 23:25:11,960 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Customers
+2019-09-15 23:25:11,986 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Flights Per Company
+2019-09-15 23:25:12,015 INFO DB_Generator.GenerateDataAndPutInDB - Adds the Tickets per Customer
+2019-09-15 23:25:12,056 INFO DB_Generator.GenerateDataAndPutInDB - Finished puting data in DB!
+2019-09-15 23:25:55,432 INFO DB_Generator.GenerateDataAndPutInDB - Delete Flights DB
+2019-09-15 23:25:56,583 INFO DB_Generator.GenerateDataAndPutInDB - Delete Success !

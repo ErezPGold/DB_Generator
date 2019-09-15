@@ -1,0 +1,128 @@
+﻿<Window x:Class="DB_Generator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_Generator"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Title="FlightDBGenerator" Height="800" Width="500" FontSize="20"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="16"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}">
+    <StackPanel Margin="0 40">
+        <Border BorderThickness="3" BorderBrush="Khaki">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="20"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="20"/>
+                </Grid.RowDefinitions>
+                <!-- Airline companies -->
+                <TextBlock Text="Airline Companies:"                            
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Grid.Row="1" Grid.Column="1"
+                           Margin="0 10"/>
+                <TextBox Text="{Binding AirlineCompaniesNo, Mode=TwoWay}" Width="100" 
+                         Padding="1" Margin="20 10" x:Name="AirlineCompaniesTxtBx"
+                         Grid.Row="1" Grid.Column="2" TextAlignment="Center"
+                         VerticalAlignment="Top" HorizontalAlignment="Center"
+                         VerticalContentAlignment="Center"/>
+            
+                <!-- Customers -->
+                <TextBlock Text="Customers:"                            
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Grid.Row="2" Grid.Column="1"
+                           Margin="0 10"/>
+                <TextBox Text="{Binding CustomersNo, Mode=TwoWay}" Width="100" 
+                         Padding="1" Margin="20 10" x:Name="CustomersTxtBx"
+                         Grid.Row="2" Grid.Column="2" TextAlignment="Center"
+                         VerticalAlignment="Top" HorizontalAlignment="Center"
+                         VerticalContentAlignment="Center"/>
+            
+                <!-- Flights Per Company -->
+                <TextBlock Text="Flights Per Company:"                            
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Grid.Row="3" Grid.Column="1"
+                           Margin="0 10"/>
+                <TextBox Text="{Binding FlightsPerCompany, Mode=TwoWay}" Width="100" 
+                         Padding="1" Margin="20 10" x:Name="FlightsPerCompanyTxtBx"
+                         Grid.Row="3" Grid.Column="2" TextAlignment="Center"
+                         VerticalAlignment="Top" HorizontalAlignment="Center"
+                         VerticalContentAlignment="Center"/>
+            
+                <!-- Tickets Per Customer -->
+                <TextBlock Text="Tickets Per Customer:"                            
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Grid.Row="4" Grid.Column="1"
+                           Margin="0 10"/>
+                <TextBox Text="{Binding TicketsPerCustomer, Mode=TwoWay}" Width="100" 
+                         Padding="1" Margin="20 10" x:Name="TicketsPerCustomerTxtBx"
+                         Grid.Row="4" Grid.Column="2" TextAlignment="Center"
+                         VerticalAlignment="Top" HorizontalAlignment="Center"
+                         VerticalContentAlignment="Center"/>
+            
+                <!-- Countries -->
+                <TextBlock Text="Countries:"                            
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Grid.Row="5" Grid.Column="1"
+                           Margin="0 10"/>
+                <TextBox Text="{Binding CountriesNoToAdd, Mode=TwoWay}" Width="100" 
+                         Padding="1" Margin="20 10" x:Name="CountriesTxtBx"
+                         Grid.Row="5" Grid.Column="2" TextAlignment="Center"
+                         VerticalAlignment="Top" HorizontalAlignment="Center"
+                         VerticalContentAlignment="Center"/>
+            
+                <!-- Button1 - Add to DB-->
+                <Button Grid.Row="2" Grid.Column="4" Width="100" Height="30" FontSize="14"
+                        Command="{Binding AddToDB}">
+                    Add to DB</Button>
+            
+                <!-- Button2 - Replace DB-->
+                <Button Grid.Row="3" Grid.Column="4" Width="100" Height="30" FontSize="12"
+                        Command="{Binding DeleteDB}">
+                    Delete DB </Button>
+            </Grid>
+        </Border>
+        <!-- Progress Bar -->
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="{Binding ElementName=pbStatus, Path=Value, Mode=OneWay}"
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Margin="30 5 0 0"/>
+            <TextBlock Text="% Completed"
+                           VerticalAlignment="Top" HorizontalAlignment="Left"
+                           Margin="0 5"/>
+        </StackPanel>
+        <ProgressBar Minimum="0" Maximum="100" Background="LightCoral"                     
+                     Value="{Binding MyProgressWorker.WorkerState, Mode=TwoWay}" 
+                     Height="30" Width="450" Name="pbStatus" 
+                     />
+        
+        <!-- Logger -->
+        <TextBlock Text="Logging :"                            
+                       VerticalAlignment="Top" HorizontalAlignment="Left"                       
+                       Margin="30 40 0 0"/>
+        <Border BorderThickness="3" BorderBrush="Blue" Height="200" >
+            <ListBox Margin="20,10"
+                     Background="Gainsboro" Foreground="BlueViolet"  
+                     FontFamily="Verdana" FontSize="14" 
+                     x:Name="LogList" />
+        </Border>
+    </StackPanel>
+</Window>
